@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**jeffreydunaway/jeffreydunaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b> ### Hi there 👋
+</b>
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter; LinkedIn (still a work in progress); and through GitHub! 
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I slipped and almost fell into a Class 6 Rapid, but somehow I survived! 
--->
