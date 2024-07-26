@@ -1,13 +1,9 @@
-<b> ### Hi there 👋
+<b> Hello, and welcome to my GitHub! For the last several weeks as of the date of this writing i am creating an extension, contributing to Firebolt.io, docker docs, Azure, CNAME records for my own website (https://www.temu.nexus) //short story is I bought a domain with the hopes of being a successful Temu Affiliate Marketer, however, my 🧠 wondered back into .js, .cs, local directories, env variables, etc. // ICANN and thought contributor to United Nations Internet Governance. It's unreal to think that 1/3 of the global pop still doesn't have equal digital access. I believe digital access is a #humanright and all mankind ought to have digital access. That's a 10,000 foot view, right now, however, I am creating an extension in MSFT Azure and I will be adding the manifest.json soon. or, a manifest.cs since I plan to write most everything in .cs and .js (excluding the .html & .css) The extension will be a simple tool to help the user experience by highlighting a word that he/she/they do not know, and in addition to copy/paste/ etc. a "Define" object ought to be included as an option. From my research I have found extensions like "Hover" in Google Chrome and SaladKit in MSFT Edge for extensions. I will continue to do more research, however, I haven't found one that is similar to the experience that I desire for myself and others. Anyways, below is a little about me and I hope we can work on something for good!
 </b>
-
-
-
-- 🔭 I’m currently a Food Bank Coordinator with a local Food Bank in Seattle, WA. I'm currently working on an Overlay Project using JavaScript for the local Food Bank. My goal for this project will increase the data visual for our local community and identfiy where, when, and who the customers are. Currently using Google Maps and figuring out a way to use JavaScript for the area we "canvass" every week. Additionally, we are increasing our database through passing out flyers to every residential neighborhood within the Seattle neighborhood. Some commercial sites are included in the Data Visual/ Overlay Project in the Google Maps. Each data point will represent the stage in the process of the canvassing. For example, a Green Icon = a sustained customer; Yellow= someone who has made contact with the local Food Bank and maybe wants to donate/ visit/ volunteer; Red= someone/ some place we literally made contact with.
-- 
-- 🌱 I’m currently learning JavaScript: React.js, Vue.js, and Node.js. HTML5, CSS3
+- 🔭
+- 🌱 I’m currently learning JavaScript: React.js, Vue.js, and Node.js. HTML5, CSS3, C#, Azure (CLI, etc.) and maintaing my own CNAME records in my domain. 
 - 👯 I’m looking to collaborate on any mapping project, from Microsoft Maps to Google Maps to the Apple Maps. 
-- 🤔 I’m looking for help with contributing/ learning/ and I need a patient mentor. 
+- 🤔 I’m looking for help with contributing/ learning. 
 - 💬 Ask me about questions in life! I have some life experience and I'm not bald for no reason. :)
 - 📫 How to reach me: Twitter; LinkedIn (still a work in progress); and through GitHub! 
 - 😄 Pronouns: He/ Him
