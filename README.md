@@ -13,16 +13,25 @@ Below are some of the concepts/ ideas/ of projects that I intend to build levera
 ;
 
 1: GitHub REad.ME update, manifest.json, .html, Workers/ Cloudflare; 
+
 2: Reference the array repo of light v. dark squares in chess. 
+
 3: Build an Ai chat bot from Msft Learn
+
 4: Complete certs from GH, MSFT, and UW API (this includes many projects)
+
 5: Personalized API Filing Documenation
+
 6: Calculator on .NET 8 in C#
+
 7: URL linkage to my Domain, adding files and pointing records; 
+\
 8: in the .nexus, add a monetized URL; parody of ****
+
 9: Dai Senryaku permission from System Software Beta for creating the game in Android/ Apple and translating to English, creating specific maps (using Google APIs, ArcGIS API, etc) to configure the Dai Senryaku like game; USA map, very specific, global maps, ocean maps, etc. how it can be integrated; ongoing, etc. I may decompile Dai Senryaku if SSB allows me and/or gives me permission to do so as I want to honor the copyrighted hardwork of SSB Engineers.  
+
 10: Building a Dominos game, the multiple apps that in PlayStore I don't think mathematically challenge the user and essentially all the user is doing is matching the tiles and not `figuring` the addition, subtraction, prime numbers, common denom, least common multiple, etc. all can be taught through the game of Dominos. This include simple double sided 6 pips (12 pips) to double sided 15 pips (30 pips). I would like to create a project that mathematically challenges the users input. 
 
-Many more ideas are forthcoming as my thirst & hunger for knowledge how to build the experience that I imagine//
+Many more ideas are forthcoming as my thirst & hunger for knowledge how to build the experience that I imagine~!//
 
 //A more comprehensive and aesthically apealling GitHub ReadME is forthcoming// I have to gently bring my mind back after being in what I like to call the `matrix` ... ///
