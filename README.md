@@ -1,10 +1,1 @@
-<b> Hello, and welcome to my GitHub! For the last several weeks as of the date of this writing i am creating an extension, contributing to Firebolt.io, docker docs, Azure, CNAME records for my own website (https://www.temu.nexus) //short story is I bought a domain with the hopes of being a successful Temu Affiliate Marketer, however, my 🧠 wondered back into .js, .cs, local directories, env variables, etc. // ICANN and thought contributor to United Nations Internet Governance. It's unreal to think that 1/3 of the global pop still doesn't have equal digital access. I believe digital access is a #humanright and all mankind ought to have digital access. That's a 10,000 foot view, right now, however, I am creating an extension in MSFT Azure and I will be adding the manifest.json soon. or, a manifest.cs since I plan to write most everything in .cs and .js (excluding the .html & .css) The extension will be a simple tool to help the user experience by highlighting a word that he/she/they do not know, and in addition to copy/paste/ etc. a "Define" object ought to be included as an option. From my research I have found extensions like "Hover" in Google Chrome and SaladKit in MSFT Edge for extensions. I will continue to do more research, however, I haven't found one that is similar to the experience that I desire for myself and others. Anyways, below is a little about me and I hope we can work on something for good! Update, I do, in fact see a "Define" feature but it has to many clicks. lol //08/2/24
-</b>
-- 🔭
-- 🌱 I’m currently learning JavaScript: React.js, Vue.js, and Node.js. HTML5, CSS3, C#, Azure (CLI, etc.) and maintaing my own CNAME records in my domain. 
-- 👯 I’m looking to collaborate on any mapping project, from Microsoft Maps to Google Maps to the Apple Maps. 
-- 🤔 I’m looking for help with contributing/ learning. 
-- 💬 Ask me about questions in life! I have some life experience and I'm not bald for no reason. :)
-- 📫 How to reach me: Twitter; LinkedIn (still a work in progress); and through GitHub! 
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I slipped and almost fell into a Class 6 Rapid, but somehow I survived! 
+/// currently in draft mode///
