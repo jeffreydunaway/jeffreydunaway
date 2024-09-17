@@ -32,6 +32,8 @@ Below are some of the concepts/ ideas/ of projects that I intend to build levera
 
 10: Building a Dominos game, the multiple apps that in PlayStore I don't think mathematically challenge the user and essentially all the user is doing is matching the tiles and not `figuring` the addition, subtraction, prime numbers, common denom, least common multiple, etc. all can be taught through the game of Dominos. This include simple double sided 6 pips (12 pips) to double sided 15 pips (30 pips). I would like to create a project that mathematically challenges the users input. 
 
+11. Continuous Learning; Terraform, Playwright testing, POSTMAN, Swagger, etc.
+
 Many more ideas are forthcoming as my thirst & hunger for knowledge how to build the experience that I imagine~!//
 
 //A more comprehensive and aesthically apealling GitHub ReadME is forthcoming// I have to gently bring my mind back after being in what I like to call the `matrix` ... ///
