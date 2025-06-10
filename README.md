@@ -1,39 +1,131 @@
- /// currently in draft mode///
+# 👋 Hi, I'm Jeffrey Dunaway!
 
- Since my journey into software has `reinitialized` after nearly 10 years of off and on coding, programming, etc. Being the first in my family in multiple generations i've had to forge my own path; from graduating highschool to college & now being part of the University of Washingtons API Documenation and JavaScript Full Stack. I commited to making a change several months ago when I imagined that I could use OpenAI, Gemma, Llama, & others to help me learn about semantic kernels, C#, syntax trees, data algos, etc. etc. Truthfully it is still a bit overhwhelming `imagining` the details of who, what, when, where, etc. and how `it` is connected. 
-Simply put, I remained determined that ever to upskill and bring my mind back to being `offline` v. being connected. I suppose there is a balance to it all: understanding, reading, research, etc. For me it started with a URL and how would one reverse-engineer a URL. I wanted to understand all the connected parts & how it is connected to the streams, rivers, lakes, and oceans of data across it & how .js, .cs, .html, and others are /everaged. I didn't understand wheat reverse-engineering was or that I was even doing it while studying algorithims, data structures, and how the algo's are applied to data structures. While it still a work in progress, and I think it always will be, to use ones imagination about how to promote a website/ domain and promote a URL. 
-ICANN & other organizations Domain naming was very informative and it is easy to see how one can focus on DNS services/ Azure Domain/ App Services and Resource Management is connected seamlessly, and that's another word I hear lately, to provide a quality developer experience and make the process of building features, plug-ins, etc. to accomplish a task. I never liked the pedagogy of starting with the solution first & then work on the details of the project. Imagination v. Doing v. Being, I think, are multi-dimensional and multi-facteted requiring a balance of time & space. 
-//note/ I have a newfound a crazy respect for Ada Lovelace and Note G, her life was short lived but it's impact on CS will live forever! I'm a new fan of hers as of today//
+Welcome to my GitHub profile! Here you'll find a showcase of my work, interests, and contributions to the open-source community.
 
-cough//hemahem// 
+---
 
-Any ways, I enjoy the intellectual challenge of creating something that matches my imagination or the user experience. From what started as an attempt to reverse-engineer and/ or understand the decompilation process, I felt like it is more intellectually stimulating to challenge my imagination vs. the details. My brain works on multiple projects at one time, and thus, is REPO is littered with data that I reference in VS & VS Code. 
+## 🕒 Multi Time Zone Digital Clock
 
-Below are some of the concepts/ ideas/ of projects that I intend to build leveraging C# & .NET, once I have the skills to do so and explain the `why` behind what I'm building. Not merely creating it, or copy/ paste it from Ai, but using Ai as a tool when I have a difficult task, or something like that, not to replace my imagination but to empower my learning and creating. 
-;
+Stay in sync with teams and friends around the world!  
+Here’s a live digital clock displaying current times in key global locations:
 
-1: GitHub REad.ME update, manifest.json, .html, Workers/ Cloudflare; 
+<details>
+  <summary>Show/Hide Clock</summary>
 
-2: Reference the array repo of light v. dark squares in chess. 
+<!-- To view the live clock, open <code>digital-clock.html</code> from this repo in your browser! -->
+  
+```html
+<!-- digital-clock.html (Open in your browser for live view) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Multi Time Zone Digital Clock</title>
+  <style>
+    body { font-family: 'Segoe UI', Verdana, Arial, sans-serif; background: #222; color: #f4f4f4; display: flex; flex-direction: column; align-items: center; min-height: 100vh; margin: 0; padding: 2rem; }
+    h1 { margin-bottom: 2rem; color: #f9d923; letter-spacing: 2px; }
+    .clocks { display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; }
+    .clock { background: #333; border-radius: 1em; box-shadow: 0 4px 14px #1118; padding: 1.5rem 2.5rem; margin: 1rem 0; text-align: center; min-width: 200px; }
+    .tz-label { font-size: 1.1em; margin-bottom: 0.7em; color: #f9d923; letter-spacing: 1px; }
+    .time { font-size: 2.2em; font-variant-numeric: tabular-nums; letter-spacing: 1.5px; }
+    @media (max-width: 600px) { .clocks { flex-direction: column; } }
+  </style>
+</head>
+<body>
+  <h1>Multi Time Zone Digital Clock</h1>
+  <div class="clocks" id="clocks"></div>
+  <script>
+    const timeZones = [
+      { label: "UTC", zone: "UTC" },
+      { label: "New York", zone: "America/New_York" },
+      { label: "London", zone: "Europe/London" },
+      { label: "Dubai", zone: "Asia/Dubai" },
+      { label: "Mumbai", zone: "Asia/Kolkata" },
+      { label: "Shanghai", zone: "Asia/Shanghai" },
+      { label: "Sydney", zone: "Australia/Sydney" },
+      { label: "Los Angeles", zone: "America/Los_Angeles" }
+    ];
+    function renderClocks() {
+      const clocksDiv = document.getElementById("clocks");
+      clocksDiv.innerHTML = "";
+      timeZones.forEach(({ label, zone }) => {
+        const clock = document.createElement("div");
+        clock.className = "clock";
+        clock.innerHTML = `<div class="tz-label">${label} <span style="color:#888;font-size:0.9em">(${zone})</span></div>
+          <div class="time" id="clock-${zone.replace(/\//g,'-')}"></div>`;
+        clocksDiv.appendChild(clock);
+      });
+    }
+    function updateClocks() {
+      timeZones.forEach(({ zone }) => {
+        const now = new Date();
+        const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false, timeZone: zone };
+        const timeString = now.toLocaleTimeString([], options);
+        const clockEl = document.getElementById(`clock-${zone.replace(/\//g, '-')}`);
+        if (clockEl) clockEl.textContent = timeString;
+      });
+    }
+    renderClocks();
+    updateClocks();
+    setInterval(updateClocks, 1000);
+  </script>
+</body>
+</html>
+```
+</details>
 
-3: Build an Ai chat bot from Msft Learn
+---
 
-4: Complete certs from GH, MSFT, and UW API (this includes many projects)
+## 🚀 About Me
 
-5: Personalized API Filing Documenation
+I'm passionate about technology, problem-solving, and building impactful solutions. My GitHub is a reflection of my journey as a developer, collaborator, and lifelong learner.
 
-6: Calculator on .NET 8 in C#
+---
 
-7: URL linkage to my Domain, adding files and pointing records; 
-\
-8: in the .nexus, add a monetized URL; parody of ****
+## 🛠️ Tech Stack
 
-9: Dai Senryaku permission from System Software Beta for creating the game in Android/ Apple and translating to English, creating specific maps (using Google APIs, ArcGIS API, etc) to configure the Dai Senryaku like game; USA map, very specific, global maps, ocean maps, etc. how it can be integrated; ongoing, etc. I may decompile Dai Senryaku if SSB allows me and/or gives me permission to do so as I want to honor the copyrighted hardwork of SSB Engineers.  
+- **Languages:**
+  - Web3.js
+  - Python3
+  - TypeScript/JS
+  - Solidity
+  - Avalanche.js
 
-10: Building a Dominos game, the multiple apps that in PlayStore I don't think mathematically challenge the user and essentially all the user is doing is matching the tiles and not `figuring` the addition, subtraction, prime numbers, common denom, least common multiple, etc. all can be taught through the game of Dominos. This include simple double sided 6 pips (12 pips) to double sided 15 pips (30 pips). I would like to create a project that mathematically challenges the users input. 
+- **Frameworks & Tools:**
+  - (add your preferred frameworks/tools here)
 
-11. Continuous Learning; Terraform, Playwright testing, POSTMAN, Swagger, etc.
+---
 
-Many more ideas are forthcoming as my thirst & hunger for knowledge how to build the experience that I imagine~!//
+## 🌟 Featured Projects
 
-//A more comprehensive and aesthically apealling GitHub ReadME is forthcoming// I have to gently bring my mind back after being in what I like to call the `matrix` ... ///
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [Project Name](#) | Short description of what it does. | Tech stack |
+| [digital-clock.html](./digital-clock.html) | Multi time zone digital clock in pure HTML, CSS, and JS. | HTML, CSS, JS |
+
+---
+
+## 📂 Files I've Been Working On
+
+- [digital-clock.html](./digital-clock.html) — Multi time zone digital clock (demo code above!)
+- [README.md](./README.md) — My GitHub profile README (you’re reading it!)
+- _(List more files as you add them!)_
+
+---
+
+## 📈 GitHub Stats
+
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreydunaway&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn SUCKS; don't ask me why.
+- Twitter: [@jeffrey_dunaway](https://twitter.com/jeffrey_dunaway)
+- [jeffreys.website](https://jeffreys.website)
+- [0x00ps.dev](https://0x00ps.dev)
+
+---
+
+_Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or just to say hi!_
