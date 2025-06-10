@@ -90,10 +90,6 @@ I'm passionate about technology, problem-solving, and building impactful solutio
   - TypeScript/JS
   - Solidity
   - Avalanche.js
-
-- **Frameworks & Tools:**
-  - (add your preferred frameworks/tools here)
-
 ---
 
 ## 🌟 Featured Projects
@@ -102,6 +98,7 @@ I'm passionate about technology, problem-solving, and building impactful solutio
 | ------- | ----------- | ---- |
 | [Project Name](#) | Short description of what it does. | Tech stack |
 | [digital-clock.html](./digital-clock.html) | Multi time zone digital clock in pure HTML, CSS, and JS. | HTML, CSS, JS |
+| PumpFunMonitor.py |
 
 ---
 
@@ -109,8 +106,7 @@ I'm passionate about technology, problem-solving, and building impactful solutio
 
 - [digital-clock.html](./digital-clock.html) — Multi time zone digital clock (demo code above!)
 - [README.md](./README.md) — My GitHub profile README (you’re reading it!)
-- _(List more files as you add them!)_
-
+- _(...more to come!)_
 ---
 
 ## 📈 GitHub Stats
@@ -121,11 +117,11 @@ I'm passionate about technology, problem-solving, and building impactful solutio
 
 ## 📫 Connect With Me
 
-- LinkedIn SUCKS; don't ask me why.
+- LinkedIn Persona verification won't accept my ID, ugh; don't ask me why.
 - Twitter: [@jeffrey_dunaway](https://twitter.com/jeffrey_dunaway)
 - [jeffreys.website](https://jeffreys.website)
 - [0x00ps.dev](https://0x00ps.dev)
-
+- https://www.temu.nexus | pointing DNS records to Azure; primarily used to attached my URL or embed my URL within my website, b/c I am an affiliate marketing on the side. This is a different repository ```here``` if one would like to see where/ how I pointed the DNS records from Cloudflare through Azure, so that my UTM can be attached to users before they shop on Temu, and if they visit my website. 
 ---
 
 _Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or just to say hi!_
