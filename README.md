@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeffrey Dunaway!
+# 👋 Hi
 
 Welcome to my GitHub profile! Here you'll find a showcase of my work, interests, and contributions to the open-source community.
 
