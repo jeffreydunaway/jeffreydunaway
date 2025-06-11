@@ -1,7 +1,11 @@
 # 👋 Hi
 
 Welcome to my GitHub profile! Here you'll find a showcase of my work, interests, and contributions to the open-source community.
-
+---
+**Today's featured city:** <!--CITY-->
+Population: <!--POP-->
+Local Time: <!--TIME-->
+Weather: <!--WEATHER-->
 ---
 
 ## 🕒 Multi Time Zone Digital Clock
