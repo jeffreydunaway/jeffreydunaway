@@ -90,22 +90,23 @@ I'm passionate about technology, problem-solving, and building impactful solutio
   - TypeScript/JS
   - Solidity
   - Avalanche.js
+
+Protocols: 
+-sherry
+- vertex
 ---
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Project Name](#) | Short description of what it does. | Tech stack |
-| [digital-clock.html](./digital-clock.html) | Multi time zone digital clock in pure HTML, CSS, and JS. | HTML, CSS, JS |
-| PumpFunMonitor.py |
+| Pump Fun token monitor(#)| Outline of using numpy to monitor PumpFun tokens,  but will be used in the Avalanche ecosystem,  not Soylana. 
 
 ---
 
 ## 📂 Files I've Been Working On
 
-- [digital-clock.html](./digital-clock.html) — Multi time zone digital clock (demo code above!)
-- [README.md](./README.md) — My GitHub profile README (you’re reading it!)
+- file README (you’re reading it!)
 - _(...more to come!)_
 ---
 
