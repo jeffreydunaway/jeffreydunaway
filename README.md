@@ -1,6 +1,6 @@
-# Hi, I’m [Your Name]! 👋
+# Hi👋
 
-I’m a Junior Full-Stack Developer with a passion for Web3, decentralized applications (dApps), and blockchain technology. I craft digital experiences using **React**, **Node.js**, and **PostgreSQL**, and I’m actively expanding my toolkit with **Solidity**, **viem**, and **wagmi** to build seamless blockchain integrations. Check out my projects below!
+I’m a (Jr.) Full-Stack Developer with a passion for Web3, decentralized applications (dApps), and blockchain technology. I craft digital experiences using **React**, **Node.js**, and **PostgreSQL**, and I’m actively expanding my toolkit with **Solidity**, **viem**, and **wagmi** to build seamless blockchain integrations. Check out my projects below!
 
 🔗 **[Portfolio: 0x00ps.dev]**  
 📧 **[Email: your.email@example.com]**  
