@@ -1,35 +1,28 @@
-# Hi👋
+# 👋
 
-I’m a (Jr.) Full-Stack Developer with a passion for Web3, decentralized applications (dApps), and blockchain technology. I craft digital experiences using **React**, **Node.js**, and **PostgreSQL**, and I’m actively expanding my toolkit with **Solidity**, **viem**, and **wagmi** to build seamless blockchain integrations. Check out my projects below!
+I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and blockchain innovation. I build with **React**, **Node.js**, and **PostgreSQL**, and I'm diving into **Solidity**, **viem**, and **wagmi** to create seamless blockchain experiences. Explore my projects below!
 
-🔗 **[Portfolio: 0x00ps.dev]**  
-📧 **[Email: your.email@example.com]**  
-💼 **[LinkedIn: linkedin.com/in/yourusername]**
+🔗 **[Portfolio: 0x00ps.dev]**
 
-## 💻 Core Skills
+## 💻 Skills
+- **Frontend**: React, Next.js, JavaScript, TypeScript
+- **Backend**: Node.js, Express, PostgreSQL, REST APIs
+- **Web3**: viem, wagmi, Solidity, Hardhat, RPC nodes
+- **Tools**: Git, Docker, AWS (basic), Linux CLI
+- **Concepts**: DeFi, NFTs, tokenization, smart contract security
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, Express, PostgreSQL, REST APIs
-- **Web3:** viem, wagmi, Solidity, Hardhat, RPC nodes
-- **Tools:** Git, Docker, AWS (basic), Linux CLI
-- **Concepts:** DeFi, NFTs, tokenization, smart contract security
+/* ## 📌 Featured Projects
+- **[SegMint.io dApp Prototype](https://github.com/yourusername/segmint-io)**: A React dApp with viem/wagmi for wallet connectivity and PostgreSQL for user data, simulating NFT tokenization.
+- **[Avalanche Testnet Deployment](https://github.com/yourusername/avalanche-testnet)**: Deployed a Solidity smart contract on Avalanche, optimized for gas efficiency.
+- **[TaxCalculator API](https://github.com/yourusername/taxbit-api)**: Integrated TaxBit API with Node.js for crypto tax reporting. */
 
-## 📌 Featured Projects
+## 🚀 What I'm Learning
+- Deepening Solidity with Hardhat for secure smart contracts.
+- Exploring viem for on-chain data queries.
+- Enhancing dApp security with OpenZeppelin best practices.
 
-- **[SegMint.io dApp Prototype](https://github.com/yourusername/segmint-io)**  
-  *A React-based dApp featuring wallet connectivity with viem/wagmi and user data management via PostgreSQL, simulating NFT tokenization workflows.*
-- **[Avalanche Testnet Deployment](https://github.com/yourusername/avalanche-testnet)**  
-  *Successfully deployed a Solidity smart contract on Avalanche, focusing on gas optimization and cross-chain compatibility.*
-- **[TaxCalculator API](https://github.com/yourusername/taxbit-api)**  
-  *Integrated the TaxBit API with a Node.js backend for streamlined crypto tax reporting and analytics.*
+⭐️ **Fun Fact**: I built an interactive resume with p5.js! Check it out on my portfolio.
 
-## 🚀 What I’m Learning
+---
 
-- **Deepening my Solidity expertise** with Hardhat for secure, scalable smart contracts.
-- **Exploring viem libraries** for efficient on-chain data queries and blockchain interactions.
-- **Enhancing dApp security** through OpenZeppelin best practices and continuous learning.
-
-⭐️ **Fun Fact:** I built an interactive resume using p5.js! Find it on my portfolio.
-
-📢 **Open to exciting opportunities in Web3 and full-stack development!**  
-Let’s connect and build the future together!
+📢 **Open to opportunities in Web3 and full-stack development!** Feel free to connect!
