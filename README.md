@@ -8,7 +8,7 @@ I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and bloc
 - **Frontend**: React, Next.js, JavaScript, TypeScript
 - **Backend**: Node.js, Express, PostgreSQL, REST APIs
 - **Web3**: viem, wagmi, Solidity, Hardhat, RPC nodes
-- **Tools**: Git, Docker, AWS (basic), Linux CLI
+- **Tools**: Git, Docker, AWS , Linux CLI
 - **Concepts**: DeFi, NFTs, tokenization, smart contract security
 
 /* ## 📌 Featured Projects
