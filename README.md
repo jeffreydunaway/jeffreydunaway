@@ -1,4 +1,22 @@
-# Jeffrey Dunaway
+# 👋 Hi, I'm Jeffrey Dunaway
+
+Welcome to my GitHub profile! I'm passionate about creative coding and visualization.
+
+## Interactive Portfolio
+Check out my [p5.js Portfolio](https://jeffreydunaway.github.io/portfolio) to see interactive versions of my work.
+
+## Skills
+- JavaScript
+- HTML/CSS
+- p5.js
+- Git
+
+## My p5.js Projects
+- [Project 1](https://github.com/jeffreydunaway/project1) - Brief description
+- [Project 2](https://github.com/jeffreydunaway/project2) - Brief description
+
+## Connect with me
+[LinkedIn](#) | [Twitter](#) | [Portfolio](#)# Jeffrey Dunaway
 
 
 ## Objective
