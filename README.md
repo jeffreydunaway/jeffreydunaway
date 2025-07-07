@@ -1,9 +1,5 @@
 # Jeffrey Dunaway
 
-4720 21st Avenue NE  
-Seattle, WA 98105  
-206-710-7005  
-[jeffreys.website](https://jeffreys.website)
 
 ## Objective
 
