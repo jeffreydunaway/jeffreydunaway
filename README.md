@@ -19,7 +19,7 @@ Motivated professional with diverse experience in customer service, nonprofit ro
 - Adapted quickly to new roles and responsibilities, demonstrating flexibility and initiative.  
 - Developed strong interpersonal, organizational, and problem-solving skills.
 
-### USPS, [Location]
+### USPS, Puget Sound
 **Mail Carrier** | January 2019 – December 2021  
 - Ensured timely and accurate delivery of mail and packages in a high-volume environment for 3 years.  
 - Maintained strong customer relationships while addressing inquiries and resolving delivery issues.  
@@ -53,7 +53,9 @@ Motivated professional with diverse experience in customer service, nonprofit ro
 
 Available upon request.
 
-*Note: The USPS location is missing from the provided information. Please specify the location (city, state) for accuracy, and I can update the resume accordingly.*# 👋
+*Note: The USPS location is missing from the provided information. Please specify the location (city, state) for accuracy, and I can update the resume accordingly.
+
+*# 👋
 
 I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and blockchain innovation. I build with **React**, **Node.js**, and **PostgreSQL**, and I'm diving into **Solidity**, **viem**, and **wagmi** to create seamless blockchain experiences. Explore my projects below!
 
@@ -68,9 +70,8 @@ I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and bloc
 
 /* ## 📌 Featured Projects
 - **[SegMint.io dApp Prototype](https://github.com/yourusername/segmint-io)**: A React dApp with viem/wagmi for wallet connectivity and PostgreSQL for user data, simulating NFT tokenization.
-- **[Avalanche Testnet Deployment](https://github.com/yourusername/avalanche-testnet)**: Deployed a Solidity smart contract on Avalanche, optimized for gas efficiency.
-- **[TaxCalculator API](https://github.com/yourusername/taxbit-api)**: Integrated TaxBit API with Node.js for crypto tax reporting. */
 
+- **[Avalanche Testnet Deployment](https://github.com/__/avalanche-testnet)**: Deployed a Solidity smart contract on Avalanche, optimized for gas efficiency.
 ## 🚀 What I'm Learning
 - Deepening Solidity with Hardhat for secure smart contracts.
 - Exploring viem for on-chain data queries.
