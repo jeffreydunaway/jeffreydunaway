@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jeffrey Dunaway - Interactive README</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f5f5f5;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    function setup() {
+      createCanvas(800, 400);
+      textFont('Arial');
+      textAlign(LEFT, TOP);
+    }
+
+    function draw() {
+      background(240);
+      
+      // Header section
+      fill(40);
+      textSize(32);
+      text("👋 Hi, I'm Jeffrey Dunaway", 50, 50);
+      
+      // About me section
+      textSize(16);
+      text("Welcome to my GitHub profile! I'm passionate about coding and creating.", 50, 100);
+      
+      // Skills visualization
+      drawSkills();
+      
+      // Contact section
+      fill(60);
+      textSize(18);
+      text("Connect with me:", 50, 300);
+      
+      // GitHub stats would be represented visually here
+      noLoop(); // Static display
+    }
+
+    function drawSkills() {
+      // A simple skills visualization
+      let skills = ["JavaScript", "HTML/CSS", "p5.js", "Git"];
+      let colors = [color(255, 100, 100), color(100, 255, 100), color(100, 100, 255), color(255, 255, 100)];
+      
+      fill(40);
+      textSize(18);
+      text("Skills:", 50, 150);
+      
+      for (let i = 0; i < skills.length; i++) {
+        fill(colors[i]);
+        rect(50, 180 + i*25, 150, 20);
+        fill(255);
+        textSize(12);
+        text(skills[i], 55, 183 + i*25);
+      }
+    }
+  </script>
+</body>
+</html>
