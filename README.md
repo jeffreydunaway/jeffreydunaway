@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about creative coding and visualization.
 
 ## Interactive Portfolio
-Check out my [p5.js Portfolio](https://jeffreydunaway.github.io/portfolio) to see interactive versions of my work.
+Check out my [p5.js Portfolio](https://www.jeffreys.website) to see interactive versions of my work.
 
 ## Skills
 - .js
