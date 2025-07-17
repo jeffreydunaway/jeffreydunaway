@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about creative coding and visualization.
 
 ## Interactive Portfolio
-Check out my [p5.js Portfolio](https://www.jeffreys.website) to see interactive versions of my work.
+Check out my [p5.js Portfolio](https://www.weloveavax.xyz) to see interactive versions of my work.
 
 ## Skills
 - .js
@@ -11,13 +11,11 @@ Check out my [p5.js Portfolio](https://www.jeffreys.website) to see interactive 
 - web3.js, web3.go, web3.py, and web3.go.
 - Git
 
-## My p5.js Projects
-- [Project 1](https://github.com/jeffreydunaway/project1) - Brief description
-- [Project 2](https://github.com/jeffreydunaway/project2) - Brief description
+## My Projects
 
 *# 👋
 
-I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and blockchain innovation. I build with **React**, **Node.js**, and **PostgreSQL**, and I'm diving into **Solidity**, **viem**, and **wagmi** to create seamless blockchain experiences. Explore my projects below!
+I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and blockchain innovation. I build with **React**, **Node.js**, and and I'm diving into **Solidity**, **viem**, and **wagmi** to create seamless blockchain experiences. Explore my projects below!
 
 🔗 **[Portfolio: 0x00ps.dev]**
 
@@ -29,19 +27,19 @@ I'm a Full-Stack Developer of Web3, decentralized applications (dApps), and bloc
 - **Concepts**: DeFi, NFTs, tokenization, smart contract security
 
 /* ## 📌 Featured Projects
-- **[SegMint.io dApp Prototype](https://github.com/yourusername/segmint-io)**: A React dApp with viem/wagmi for wallet connectivity and PostgreSQL for user data, simulating NFT tokenization.
+- 
 
-- **[Avalanche Testnet Deployment](https://github.com/__/avalanche-testnet)**: Deployed a Solidity smart contract on Avalanche, optimized for gas efficiency.
+- //**[Avalanche Testnet Deployment](**: Deployed a Solidity smart contract on Avalanche, optimized for gas efficiency.
+  
 ## 🚀 What I'm Learning
 - Deepening Solidity with Hardhat for secure smart contracts.
 - Exploring viem for on-chain data queries.
 - Enhancing dApp security with OpenZeppelin best practices.
 
-⭐️ **Fun Fact**: I built an interactive resume with p5.js! Check it out on my portfolio.
-
+⭐️ **Fun Fact**: I built an interactive resume with p5.js
 ---
 
-📢 **Open to opportunities in Web3 and full-stack development!** Feel free to connect!
+📢 **Open to opportunities in Web3 and full-stack development!
 
 ## Connect with me
 Linkedin (won't allow me to verify) | [Twitter](#) | [Portfolio](#)# Jeffrey Dunaway
@@ -98,5 +96,3 @@ Motivated professional with diverse experience in customer service, nonprofit ro
 ## References
 
 Available upon request.
-
-*Note: The USPS location is missing from the provided information. Please specify the location (city, state) for accuracy, and I can update the resume accordingly.
