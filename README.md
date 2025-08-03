@@ -82,7 +82,7 @@
       </section>
       <section id="contact">
           <h2>Contact</h2>
-          <p>Email: jeffdunaway1987@gmail.com | Phone: 206-780-7807</p>
+          <p>Email: DM me on X</p>
           <p>X: <a href="https://x.com/0xloveavax" target="_blank">@0xloveavax</a> | LinkedIn: <a href="https://linkedin.com/in/jeffrey-dunaway" target="_blank">jeffrey-dunaway</a></p>
           <p>Website: <a href="https://jeffreys.website" target="_blank">jeffreys.website</a> | Avalanche Community Content</p>
       </section>
