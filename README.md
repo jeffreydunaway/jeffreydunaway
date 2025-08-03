@@ -22,9 +22,8 @@
       </header>
       <section id="bio">
           <h1>Jeffrey Dunaway </h1>
-          <p>Web3 developer and educator specializing in Avalanche blockchain with 3+ years experience learning and protyping Go-based dApps and creating educational content - technical writing. Passionate about combining AI education with blockchain technology to drive adoption.</p>
-          <p>Download full resume: <a href="resume.pdf" download>Resume PDF</a> | <a href="cover-letter.pdf" download>Cover Letter PDF</a></p>
-      </section>
+          <p>Web3 degen curious about all chains but in Avalanche & Coinbase in particuular... always still learning and protyping Go-based dApps and creating educational content - technical writing. Passionate about combining AI education with blockchain technology to drive adoption.</p>
+      
       <section id="experience">
           <h2>Experience</h2>
           <div class="card">
@@ -84,10 +83,10 @@
           <h2>Contact</h2>
           <p>Email: DM me on X</p>
           <p>X: <a href="https://x.com/0xloveavax" target="_blank">@0xloveavax</a> | LinkedIn: <a href="https://linkedin.com/in/jeffrey-dunaway" target="_blank">jeffrey-dunaway</a></p>
-          <p>Website: <a href="https://jeffreys.website" target="_blank">jeffreys.website</a> | Avalanche Community Content</p>
+          <p>Website: <a href="https://jeffreys.website" target="_blank">jeffreys.website</a> |</p>
       </section>
       <footer>
-          <p>&copy; 2023 Jeffrey Dunaway</p>
+          <p>&copy;</p>
       </footer>
       <script src="script.js"></script>
   </body>
