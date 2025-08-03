@@ -22,7 +22,7 @@
       </header>
       <section id="bio">
           <h1>Jeffrey Dunaway </h1>
-          <p>Web3 developer and educator specializing in Avalanche blockchain with 3+ years experience building Go-based dApps and creating educational content. Passionate about combining AI education with blockchain technology to drive adoption.</p>
+          <p>Web3 developer and educator specializing in Avalanche blockchain with 3+ years experience learning and protyping Go-based dApps and creating educational content - technical writing. Passionate about combining AI education with blockchain technology to drive adoption.</p>
           <p>Download full resume: <a href="resume.pdf" download>Resume PDF</a> | <a href="cover-letter.pdf" download>Cover Letter PDF</a></p>
       </section>
       <section id="experience">
