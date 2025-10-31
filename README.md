@@ -22,7 +22,7 @@
       </header>
       <section id="bio">
           <h1>Jeffrey Dunaway </h1>
-          <p>Web3 degen curious about all chains but in Avalanche & Coinbase in particuular... always still learning and protyping Go-based dApps and creating educational content - technical writing. Passionate about combining AI education with blockchain technology to drive adoption.</p>
+          <p>Web3 degen curious about all chains but  Avalanche in particuular... always still learning and refactoring/ protyping Geth/ web3.js dApps and creating educational content - technical writing. Passionate about combining AI education with blockchain technology to drive adoption.</p>
       
       <section id="experience">
           <h2>Experience</h2>
